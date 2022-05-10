@@ -52,7 +52,7 @@ class ViewController: UITableViewController {
             
             let i1 = pictures.firstIndex(where: {$0 == vc.selectedImage})
             vc.selectedImageNumber = i1! + 1
-//testgit
+
         }
     }
 }
